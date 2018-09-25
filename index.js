@@ -25,3 +25,7 @@ function dec(n) {
 function partseInt(){
   return parseInt(n, 10)
 }
+
+function parseFloat() {
+  parseFloat(n, )
+}
