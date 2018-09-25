@@ -23,5 +23,5 @@ function dec(n) {
 }
 
 function partseInt(){
-  return parseInt(n, )
+  return parseInt(n, 10)
 }
