@@ -27,5 +27,5 @@ function partseInt(){
 }
 
 function parseFloat() {
-  parseFloat(n, )
+  parseFloat(n)
 }
